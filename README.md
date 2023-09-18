@@ -1,7 +1,8 @@
 # Museum-Artefact-Explorer
 ### This Museum Artefact Explorer leverages the Museum Artefact API to provide users with an intuitive platform for searching and discovering art based on artists, GPS locations, art mediums, and trends. Users can sign up to save their search history and favorite artefacts.
 ## Deploy Link: https://museum-artefact-explorer-wqd6.vercel.app/
-## Author: Sooyeon Kim
+## Author: 
+Sooyeon Kim
 ## Tech Stack:
   - Frontend: Developed using JS/Next.js for a dynamic and responsive user interface.
   - Backend: MongoDB serves as the NoSQL database to efficiently manage the growing art database.
