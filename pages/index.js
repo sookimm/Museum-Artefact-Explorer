@@ -1,15 +1,3 @@
-/*********************************************************************************
- *  WEB422 – Assignment 06
- *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part of this
- *  assignment has been copied manually or electronically from any other source (including web sites) or
- *  distributed to other students.
- *
- *  Name: Sooyeon Kim Student ID: 149385213 Date: August 4, 2023
- *
- 
- *
- ********************************************************************************/
-
 import React from "react";
 import { Col, Container, Image, Row } from "react-bootstrap";
 
