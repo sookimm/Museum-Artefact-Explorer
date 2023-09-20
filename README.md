@@ -1,6 +1,4 @@
-
-
-# Museum-Artefact-Explorer![museum-artefact-explorer](https://github.com/sookimm/Museum-Artefact-Explorer/assets/105490589/76f2befc-7d69-478c-85fc-51c0e54251fe)
+# Museum-Artefact-Explorer
 
 The Museum Artefact Explorer is a web application that allows users to explore and discover information about artworks and artefacts from the Metropolitan Museum of Art's collection. The application provides features like searching, viewing details, and managing favorites and search history.
 
@@ -9,6 +7,9 @@ https://museum-artefact-explorer-wqd6.vercel.app/
 
 ## Author: 
 Sooyeon Kim
+
+
+
 
 ## Tech Stack:
 - **Frontend**: The frontend of the application is built using React.js, a popular JavaScript library for building user interfaces. It uses Next.js, a framework for server-rendered React applications, to handle routing and server-side rendering. Key components related to UX and frontend include:
