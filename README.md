@@ -8,7 +8,7 @@ https://museum-artefact-explorer-wqd6.vercel.app/
 ## Author: 
 Sooyeon Kim
 
-
+![museum-artefact-explorer](https://github.com/sookimm/Museum-Artefact-Explorer/assets/105490589/68cbb6ce-d7c8-4b1d-8766-a9ba5069f90d)
 
 
 ## Tech Stack:
