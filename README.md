@@ -1,4 +1,7 @@
-# Museum-Artefact-Explorer
+
+
+# Museum-Artefact-Explorer![museum-artefact-explorer](https://github.com/sookimm/Museum-Artefact-Explorer/assets/105490589/76f2befc-7d69-478c-85fc-51c0e54251fe)
+
 The Museum Artefact Explorer is a web application that allows users to explore and discover information about artworks and artefacts from the Metropolitan Museum of Art's collection. The application provides features like searching, viewing details, and managing favorites and search history.
 
 ## Deploy Link: 
